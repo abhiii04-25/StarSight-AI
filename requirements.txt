@@ -1,0 +1,6 @@
+numpy
+opencv-python
+Pillow
+PySide6
+pyttsx3
+streamlit
